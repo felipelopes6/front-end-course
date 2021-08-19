@@ -1,0 +1,65 @@
+h1, h2, p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+  margin: 0;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+
+.my-details {
+  text-align: center;
+  border: 2px solid black;
+  background: #cccccc;
+  margin-top: 20px;
+  padding: 10px
+}
+
+.my-details p {
+  margin-bottom: 10px;
+}
+
+.bass-guitar-text {
+  font-size: 20px;
+  color: chocolate;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.pernambuco {
+  color: darkgreen;
+}
+
+.pernambuco span {
+  border: 2px solid red;
+}
+
+.pernambuco span i {
+  color: blue;
+} 
+
+span {
+  border: 2px solid blue;
+}
+
+i {
+  color: red;
+}
+
+#dog-text {
+ color: tomato; 
+}
+
+.css-box-model {
+  border: 3px dashed red;
+  margin: 20px 10px 15px 5px;
+  padding: 20px 35px 15px 10px;
+}
